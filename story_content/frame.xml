@@ -1320,6 +1320,13 @@
             <slidelink slideid="_player.5ePxxYJk4fu.5lHte2qM3cd" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
+        <slidelink slideid="_player.6nolBloZJZU" displaytext="HOME (1)" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6nolBloZJZU.6hGV36mmR4d" displaytext="Pengantar" expand="false" type="slide" />
+            <slidelink slideid="_player.6nolBloZJZU.65zIQrdGsZw" displaytext="Perkembangan Internet" expand="false" type="slide" />
+            <slidelink slideid="_player.6nolBloZJZU.5giF6xc8f9o" displaytext="Perkembangan Internet" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
